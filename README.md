@@ -16,20 +16,59 @@ In YAML code, the `${EnvironmentName}` would be substituted with `UdacityProject
 
 ## Stack Creation
 
-![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/Create%20Stack.PNG "Install-Python")
+![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/Create%20Stack.PNG "Stack Creation")
 
-## Project Initialization
+## Stack Complete
 
-![alt text](https://github.com/OmarKhalil10/Image-Processing-Toolbox/blob/main/doc_images/initialization.jpg "Install-Python")
+![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/Stack%20Complete.PNG "Stack Complete")
 
-## Packages Installation
+## Stack Events
 
-### Open Terminal
-![alt text](https://github.com/OmarKhalil10/Image-Processing-Toolbox/blob/main/doc_images/open%20terminal.jpg "Install-Python")
+![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/Stack%20Events.PNG "Stack Events")
 
-### start to install the following packages using [pip install PACKAGE_NAME]
-![alt text](https://github.com/OmarKhalil10/Image-Processing-Toolbox/blob/main/doc_images/start-program.jpg "Install-Python")
+## Stack Resources
 
+![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/Stack%20Resources.PNG "Stack Resources")
+
+## Stack Parameters
+
+![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/Stack%20Parameters.PNG "Stack Parameters")
+
+## Stack Templates
+
+![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/Stack%20Template.PNG "Stack Templates")
+
+## Load Balancer
+
+![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/Load%20Balancer.PNG "Load Balancer")
+
+## Listeners
+
+![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/Load%20Balancer%20Details%20%26%20Listeners.PNG "Listeners")
+
+## Target Groups
+
+![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/Target%20Groups.PNG "Target Groups")
+
+## Health Checks
+
+![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/Health%20Checks.PNG "Health Checks")
+
+## Launch Configuration
+
+![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/Launch%20Configurations.PNG "Launch Configuration")
+
+## Auto-Scaling
+
+![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/Auto%20Scaling%20Groups.PNG "Auto-Scaling")
+
+## VPC
+
+![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/VPC.PNG "VPC")
+
+## Subnets
+
+![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/Subnets.PNG "Subnets")
 
 # UdacityProject-LB-DNSName
 
