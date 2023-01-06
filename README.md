@@ -14,9 +14,9 @@ In YAML code, the `${EnvironmentName}` would be substituted with `UdacityProject
 
 ![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/Screenshots/NONE.jpg "Infrastructure Diagram")
 
-## Create a new project
+## Stack Creation
 
-![alt text](https://github.com/OmarKhalil10/Image-Processing-Toolbox/blob/main/doc_images/Create%Stack.PNG "Install-Python")
+![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/Create%20Stack.PNG "Install-Python")
 
 ## Project Initialization
 
