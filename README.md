@@ -10,6 +10,27 @@ Students may use a JSON file for increasing the generic nature of the YAML code.
 
 In YAML code, the `${EnvironmentName}` would be substituted with `UdacityProject` accordingly.
 
+## Infrastructure Diagram
+
+![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/Screenshots/NONE.jpg "Infrastructure Diagram")
+
+## Create a new project
+
+![alt text](https://github.com/OmarKhalil10/Image-Processing-Toolbox/blob/main/doc_images/Create%Stack.PNG "Install-Python")
+
+## Project Initialization
+
+![alt text](https://github.com/OmarKhalil10/Image-Processing-Toolbox/blob/main/doc_images/initialization.jpg "Install-Python")
+
+## Packages Installation
+
+### Open Terminal
+![alt text](https://github.com/OmarKhalil10/Image-Processing-Toolbox/blob/main/doc_images/open%20terminal.jpg "Install-Python")
+
+### start to install the following packages using [pip install PACKAGE_NAME]
+![alt text](https://github.com/OmarKhalil10/Image-Processing-Toolbox/blob/main/doc_images/start-program.jpg "Install-Python")
+
+
 # UdacityProject-LB-DNSName
 
 http://web-s-WebAp-1GHI1Z0C6CUHY-729968195.us-east-1.elb.amazonaws.com
