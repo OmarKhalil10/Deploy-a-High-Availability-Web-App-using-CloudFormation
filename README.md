@@ -70,6 +70,10 @@ In YAML code, the `${EnvironmentName}` would be substituted with `UdacityProject
 
 ![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/Subnets.PNG "Subnets")
 
+## Website Connectivity Check
+
+![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/website%20LB-EC2-s3%20connectivity%20check.PNG "Website Connectivity Check")
+
 # UdacityProject-LB-DNSName
 
 http://web-s-WebAp-1GHI1Z0C6CUHY-729968195.us-east-1.elb.amazonaws.com
