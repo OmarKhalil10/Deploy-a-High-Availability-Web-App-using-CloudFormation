@@ -12,7 +12,7 @@ In YAML code, the `${EnvironmentName}` would be substituted with `UdacityProject
 
 ## Infrastructure Diagram
 
-![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/Screenshots/NONE.jpg "Infrastructure Diagram")
+![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/Infrastructure%20Diagram.png "Infrastructure Diagram")
 
 ## Stack Creation
 
@@ -29,6 +29,10 @@ In YAML code, the `${EnvironmentName}` would be substituted with `UdacityProject
 ## Stack Resources
 
 ![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/Stack%20Resources.PNG "Stack Resources")
+
+## Web App Load-Balancer DNS Name
+
+![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/URL%20for%20Load%20Balancer%20DNS%20Name%20and%20http%20in%20front%20of%20it.PNG "Web App Load-Balancer DNS Name")
 
 ## Stack Parameters
 
@@ -69,6 +73,10 @@ In YAML code, the `${EnvironmentName}` would be substituted with `UdacityProject
 ## Subnets
 
 ![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/Subnets.PNG "Subnets")
+
+## Server Check
+
+![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/It%20Works!.PNG "Server Check")
 
 ## Website Connectivity Check
 
