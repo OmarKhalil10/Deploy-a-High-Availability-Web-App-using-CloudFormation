@@ -30,7 +30,7 @@ In YAML code, the `${EnvironmentName}` would be substituted with `UdacityProject
 
 ![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/Stack%20Resources.PNG "Stack Resources")
 
-## Web App Load-Balancer DNS Name
+## Stack Output: Web App Load-Balancer DNS Name
 
 ![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/URL%20for%20Load%20Balancer%20DNS%20Name%20and%20http%20in%20front%20of%20it.PNG "Web App Load-Balancer DNS Name")
 
