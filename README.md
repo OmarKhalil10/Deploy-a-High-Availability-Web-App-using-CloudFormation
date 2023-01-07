@@ -82,15 +82,15 @@
 
 ## Stack Delete
 
-![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/Screenshots/NONE.jpg "Stack Delete")
+![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/Stack%20Delete.PNG "Stack Delete")
 
 ## Stack Delete in Progress
 
-![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/Screenshots/NONE.jpg "Stack Delete in Progress")
+![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/Delete%20In%20Progress.PNG "Stack Delete in Progress")
 
 ## Stack Deleted Successfully
 
-![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/Screenshots/NONE.jpg "Stack Deleted Successfully")
+![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshots/Delete%20Complete.PNG "Stack Deleted Successfully")
 
 # Udacity-Project-LB-DNS-Name (Temporarily Unavailable)
 
