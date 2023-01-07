@@ -92,6 +92,6 @@
 
 ![alt text](https://github.com/OmarKhalil10/Deploy-a-High-Availability-Web-App-using-CloudFormation/Screenshots/NONE.jpg "Stack Deleted Successfully")
 
-# Udacity-Project-LB-DNS-Name
+# Udacity-Project-LB-DNS-Name (Temporarily Unavailable)
 
 http://web-s-WebAp-1GHI1Z0C6CUHY-729968195.us-east-1.elb.amazonaws.com
